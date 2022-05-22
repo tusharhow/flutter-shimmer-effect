@@ -1,16 +1,12 @@
-# nimu_shimmer_effect
+# Shimmer Effect in Flutter
 
-A new Flutter project.
+## [Watch it on YouTube](https://youtu.be/PovMjTs-huw)
 
-## Getting Started
+### Shimmer Effect
 
-This project is a starting point for a Flutter application.
+A nice clean Shimmer Effect In Flutter.Today I will show you how you can create Shimmer Effect In Flutter. We also add animation which works perfectly on mobile and the web.
 
-A few resources to get you started if this is your first Flutter project:
+### Shimmer Effect UI In Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+<img src="https://user-images.githubusercontent.com/65107679/169696922-de400637-9f3e-4461-9580-54f40a9bc18a.png" alt="portfolio" width="600">
